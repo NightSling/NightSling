@@ -1,12 +1,22 @@
-<h2>Hey 👋, I'm <a href="https://">daysling</a></h2>
-<p>I'm currently a Java/JS/Python developer. I also create <strong><a href="https://spigotmc.org">@spigotmc</a></strong> based plugins, I started developing since 7 and I'm 15 currently.</p><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>Hey 👋, I'm <a href="https://stanleylim.me/">Stanley</a></h2>
+<p>I'm currently a software engineer <strong><a href="https://aws.amazon.com/">@aws</a></strong> based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
+<p><a href="https://stanleylim.me"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/CrackPixel">CrackPixel</a>.</li>
-<li>🧐 Learning about <strong>algorithms</strong>, <strong>data science</strong>, and a bit of <strong>Data Structure!</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/NightSling">Github</a>.</li>
-<li>🎉 Fun Fact: My brains shakes when I code.. xD</li>
+<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
+<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
+<li>📝 I regulary write articles on <a href="https://slim.netlify.app">my blog</a>.</li>
+<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
+<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+<li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
+<h2>✒️ Recent Posts</h2>
+<details>
+    <summary>Explore</summary>
+    <li><a target="_blank" href="https://slim.netlify.app/github1s---instantly-browse-projects-on-vscode-in-your-browser">Github1s - Instantly Browse Projects on VSCode in Your Browser ⚡ — February 10, 2021</a></li><li><a target="_blank" href="https://slim.netlify.app/extensions-google-chrome's-soft-underbelly-(part-2)">Extensions: Google Chrome's Soft Underbelly (Part 2) — February 07, 2021</a></li><li><a target="_blank" href="https://slim.netlify.app/extensions-google-chrome's-soft-underbelly-(part-1)">Extensions Google Chrome's Soft Underbelly (Part 1) — January 07, 2021</a></li><li><a target="_blank" href="https://slim.netlify.app/finally-featured-on-producthunt---lessons-learned">Finally Featured on ProductHunt — Lessons Learned — November 18, 2020</a></li><li><a target="_blank" href="https://slim.netlify.app/pitfalls-of-the-singleton-bean">Pitfalls of the Singleton Bean — October 11, 2020</a></li>
+</details>
 <p><a target="_blank" href="https://slim.netlify.app">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -17,7 +27,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
-<img src="https://github.com/devicons/devicon/raw/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="25" height="25" />
@@ -36,5 +45,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=nightsling&show_icons=true&count_private=true" alt="nightsling" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=NightSling.NightSling" alt="visitors"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
