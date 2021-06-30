@@ -5,7 +5,7 @@
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/CrackPixel">Crackpixel</a>.</li>
 <li>🧐 Learning about <strong>algorithms</strong>, <strong>data science</strong>, and a bit of <strong>Data Structure!</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/NightSling">Github</a>.</li>
+<li>👨‍💻 Most of my projects are private, Some of them are still available on <a href="https://github.com/NightSling">Github</a>.</li>
 <li>🎉 Fun Fact: My brains shakes when I code.. xD</li>
 </ul>
 <p><a target="_blank" href="https://slim.netlify.app">Read More</a></p>
