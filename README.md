@@ -3,7 +3,7 @@
 <p><a href="https://discord.gg/NtzMjXhpSy"><img src="https://img.shields.io/discord/736951354517356564?label=Discord&logo=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fpopular-services-brands-vol-2%2F512%2Fdiscord-512.png&style=for-the-badge" alt="Discord"></a></a></p>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/CrackPixel">Crackpixel</a>.</li>
+<li>🔭 I’m currently working on <a href="https://github.com/JeekieHost">JeekieHost</a>, <a href="https://github.com/JurassicHost">JurassicHost</a> and <a href="https://github.com/Skyfallen">Skyfallen</a>.</li>
 <li>🧐 Learning about <strong>algorithms</strong>, <strong>data science</strong>, and a bit of <strong>Data Structure!</strong>.</li>
 <li>👨‍💻 Most of my projects are private, Some of them are still available on <a href="https://github.com/NightSling">Github</a>.</li>
 <li>🎉 Fun Fact: My brains shakes when I code.. xD</li>
