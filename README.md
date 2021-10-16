@@ -1,4 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://daysling.tk">daysling</a></h2>
+<img src="https://discord.c99.nl/widget/theme-3/459342334564237323.png"/>
 <p>I'm currently a Java/JS/Python developer. I also create <strong><a href="https://spigotmc.org">@spigotmc</a></strong> based plugins, I started developing since 7 and I'm 16 currently.</p><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -35,5 +36,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=nightsling&show_icons=true&count_private=true" alt="nightsling" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=NightSling.NightSling" alt="visitors"></p>
