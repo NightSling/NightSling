@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://daysling.tk">daysling</a></h2>
 <img src="https://discord.c99.nl/widget/theme-3/459342334564237323.png"/>
 <p>I'm currently a Java/JS/Python developer. I also create <strong><a href="https://spigotmc.org">@spigotmc</a></strong> based plugins, I started developing since 7 and I'm 16 currently.</p><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<a href="https://docs.google.com/document/d/19GJwo-AA_OwK-p8dXQn3fZAD6D_8zdj01lormMIyj0I/edit#">Portfolio ;)</a>
+<a href="https://docs.google.com/document/d/19GJwo-AA_OwK-p8dXQn3fZAD6D_8zdj01lormMIyj0I">Resume</a>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/JeekieHost">JeekieHost</a>, <a href="https://github.com/JurassicHost">JurassicHost</a> and <a href="https://github.com/SkyfallenHQ">SkyfallenHQ</a>.</li>
