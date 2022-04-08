@@ -1,18 +1,16 @@
-<h2>Hey 👋, I'm <a href="https://daysling.tk">daysling</a></h2>
+<h2>Hey 👋, I'm <a href="https://daysling.xyz">Sushant Pangeni</a></h2>
 <img src="https://discord.c99.nl/widget/theme-3/459342334564237323.png"/>
-<p>I'm currently a Java/JS/Python developer. I also create <strong><a href="https://spigotmc.org">@spigotmc</a></strong> based plugins, I started developing since 7 and I'm 16 currently.</p><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<p>Hey! I'm Sushant Pangeni. People may know me as "daysling" or "NightSling" throughout the internet. I'm a full-stack developer that has experience with Networking, Linux Administration (DB included) and general management.</p><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <a href="https://docs.google.com/document/d/19GJwo-AA_OwK-p8dXQn3fZAD6D_8zdj01lormMIyj0I">Resume</a>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/JeekieHost">JeekieHost</a>, <a href="https://github.com/JurassicHost">JurassicHost</a> and <a href="https://github.com/SkyfallenHQ">SkyfallenHQ</a>.</li>
-<li>🧐 Learning about <strong>algorithms</strong>, <strong>data science</strong>, and a bit of <strong>Data Structure!</strong>.</li>
-<li>👨‍💻 Most of my projects are private, Some of them are still available on <a href="https://github.com/NightSling">Github</a>.</li>
-<li>🎉 Fun Fact: My brains shakes when I code.. xD</li>
-</ul>1
+<li>🔭 I’m currently working on as a software engineer at <a href="https://pixelatedstudios.net">PixelatedStudios</a>.
+<li>🧐 Learning about <strong>Web3</strong> and <strong>Cryptography</strong>.</li>
+<li>👨‍💻 Most of my projects are private as I mostly work under strict terms and NDA. If you'd like to see some projects contact me at <code>access@daysling.xyz</code></li>
+</ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
