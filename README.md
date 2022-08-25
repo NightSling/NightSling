@@ -6,7 +6,7 @@
 <ul>
 <li>🔭 I’m currently working on as a software engineer at <a href="https://pixelatedstudios.net">PixelatedStudios</a>.
 <li>🧐 Learning about <strong>Web3</strong> and <strong>Cryptography</strong>.</li>
-<li>👨‍💻 Most of my projects are private as I mostly work under strict terms and NDA. If you'd like to see some projects contact me at <code>access@daysling.xyz</code></li>
+<li>👨‍💻 Most of my projects are private as I mostly work under strict terms and NDA. If you'd like to see some projects contact me at <code>access@daysling.space</code></li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
