@@ -1,12 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://daysling.xyz">Sushant Pangeni</a></h2>
 <img src="https://discord.c99.nl/widget/theme-3/459342334564237323.png"/>
 <p>Hey! I'm Sushant Pangeni. People may know me as "daysling" or "NightSling" throughout the internet. I'm a full-stack developer that has experience with Networking, Linux Administration (DB included) and general management.</p><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<a href="https://docs.google.com/document/d/19GJwo-AA_OwK-p8dXQn3fZAD6D_8zdj01lormMIyj0I">Resume</a>
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on as a software engineer at <a href="https://pixelatedstudios.net">PixelatedStudios</a>.
-<li>🧐 Learning about <strong>Web3</strong> and <strong>Cryptography</strong>.</li>
-<li>👨‍💻 Most of my projects are private as I mostly work under strict terms and NDA. If you'd like to see some projects contact me at <code>access@daysling.space</code></li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
