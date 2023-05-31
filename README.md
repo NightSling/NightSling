@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://daysling.space">Sushant Pangeni</a></h2>
 <img src="https://discord.c99.nl/widget/theme-3/459342334564237323.png"/>
-<p>Hey! I'm Sushant Pangeni. People may know me as "daysling" or "NightSling" throughout the internet. I'm a full-stack developer that has experience with Networking, Linux Administration (DB included) and general management.</p><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<p>Hey! I'm Sushant Pangeni. People may know me as "daysling" or "NightSling" throughout the internet. I'm a full-stack developer that has experience with Networking, Linux Administration and general management.</p><img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
