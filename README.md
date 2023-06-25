@@ -30,5 +30,4 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nightsling&show_icons=true&count_private=true" alt="nightsling" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=NightSling.NightSling" alt="visitors"></p>
