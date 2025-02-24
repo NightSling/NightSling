@@ -7,7 +7,6 @@ Student & Full Stack Developer
 * 🌍  I'm based in Kathmandu, Nepal
 * 🖥️  See my portfolio at [daysling.com](http://daysling.com)
 * ✉️  You can contact me at [day@daysling.com](mailto:day@daysling.com)
-* 🚀  I'm currently working on [Creeds](http://github.com/NightSling/Creeds)
 * 🤝  I'm open to collaborating on freelancing projects
 
 ###
