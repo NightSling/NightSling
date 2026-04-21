@@ -1,13 +1,10 @@
 Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30"/> My name is Sushant Pangeni
 =======================================================================================================================================
 
-Student & Full Stack Developer
+Software Engineer
 ------------------------------
-
-* 🌍  I'm based in Kathmandu, Nepal
-* 🖥️  See my portfolio at [daysling.com](http://daysling.com)
+* 🖥️  See my portfolio at [daysling.com](https://daysling.com)
 * ✉️  You can contact me at [day@daysling.com](mailto:day@daysling.com)
-* 🤝  I'm open to collaborating on freelancing projects
 
 ###
 
@@ -107,31 +104,4 @@ Student & Full Stack Developer
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="left">Github Statistics</h1>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NightSling/NightSling/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/NightSling/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://guthub-readme.vercel.app/api?username=NightSling&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://guthub-readme.vercel.app/api/top-langs?username=NightSling&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=NightSling&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=NightSling&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NightSling&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
 ###
